@@ -1,5 +1,4 @@
-# -
-C语言的矩阵行列变换代码
+# C语言的矩阵行列变换代码
 #include <stdio.h>
 
 int main() {
